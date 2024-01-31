@@ -1,0 +1,19 @@
+h2{
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: rgb(15, 33, 94) !important;
+}
+.darktext{
+    color: rgb(15, 33, 94) !important;
+}  
+.subtext{
+    color: black;
+}
+.graytext{
+    color: rgb(58, 58, 58);
+}
+.small-image {
+    width: 500px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+}
